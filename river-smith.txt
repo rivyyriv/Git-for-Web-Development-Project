@@ -106,7 +106,7 @@ https://codepen.io/rivyyriv/pen/MWwQwKm
     
 
     26. What do we use to change the spacing between letters?
-    
+
 
     27. What do we use to to change everything to CAPITALS? lowercase? Capitalize?
 
@@ -139,5 +139,5 @@ Stretch Questions
     5. In your own words, explain the box model. What is the fix for the box model? 
 
 
-
+ds
    --> 
